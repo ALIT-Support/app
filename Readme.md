@@ -1,0 +1,7 @@
+Copyright © 2020 Absolute Logic. All rights reserved.
+
+Redistribution and/or use of this script, program, application, file, tool ('application'), in any form, including, without limitation the source and binary forms, whether in original format or modified, is allowed, subject to all source code retaining, without modification, the contents of this copyright notice in its entirety. In the event the source code is compiled into binary code, this copyright notice, in its entirety, must be reproduced and the users of such binary code be made aware of its' full contents.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Language in this notice is provided, in part by the open source community and distributed under the Creative Commons 4.0 guidelines. See https://github.com/github/opensource.guide#readme for additional information.
